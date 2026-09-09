@@ -1,0 +1,9 @@
+# Problem 100: Reverse alphabet triangle
+
+n = int(input("Enter number of rows: "))
+
+print("Reverse alphabet triangle:")
+for i in range(n, 0, -1):
+    for j in range(i):
+        print(chr(ord('A') + j), end=' ')
+    print()

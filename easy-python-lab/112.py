@@ -1,0 +1,13 @@
+# Problem 112: Square with diagonals marked
+
+n = int(input("Enter size: "))
+
+print("Square with diagonals:")
+for i in range(n):
+    for j in range(n):
+        # Check if on border or diagonal
+        if i == 0 or i == n - 1 or j == 0 or j == n - 1 or i == j or i + j == n - 1:
+            print('*', end=' ')
+        else:
+            print(' ', end=' ')
+    print()
