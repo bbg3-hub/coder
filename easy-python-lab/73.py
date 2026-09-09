@@ -1,5 +1,3 @@
-# Problem 73: Read numbers until user enters -1, print count and average
-
 numbers = []
 
 while True:

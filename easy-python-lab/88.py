@@ -1,5 +1,3 @@
-# Problem 88: Number triangle (row-wise repetition)
-
 n = int(input("Enter number of rows: "))
 
 print("Number triangle (row-wise):")

@@ -1,9 +1,7 @@
-# Problem 48: Count the number of digits in a number
-
 n = int(input("Enter a number: "))
 
 count = 0
-temp = abs(n)  # Handle negative numbers
+temp = abs(n)
 
 if temp == 0:
     count = 1

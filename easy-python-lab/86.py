@@ -1,5 +1,3 @@
-# Problem 86: Hollow right-angled triangle
-
 n = int(input("Enter number of rows: "))
 
 print("Hollow right-angled triangle:")

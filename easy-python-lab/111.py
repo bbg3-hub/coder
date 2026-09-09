@@ -1,5 +1,3 @@
-# Problem 111: Heart shape pattern
-
 print("Heart pattern:")
 pattern = [
     "  ***   ***  ",

@@ -1,5 +1,3 @@
-# Problem 37: Given coordinates (x, y), determine which quadrant the point lies in
-
 x = float(input("Enter x-coordinate: "))
 y = float(input("Enter y-coordinate: "))
 

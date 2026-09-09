@@ -1,5 +1,3 @@
-# Problem 89: Sequential number triangle
-
 n = int(input("Enter number of rows: "))
 
 print("Sequential number triangle:")

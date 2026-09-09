@@ -1,5 +1,3 @@
-# Problem 77: Print numbers increasing then decreasing using single recursive function
-
 def print_numbers(n, current=1, direction="up"):
     if direction == "up":
         if current <= n:
@@ -8,7 +6,7 @@ def print_numbers(n, current=1, direction="up"):
         else:
             print()
             print_numbers(n, n - 1, "down")
-    else:  # direction == "down"
+    else:
         if current >= 1:
             print(current, end=" ")
             print_numbers(n, current - 1, "down")

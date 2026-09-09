@@ -1,5 +1,3 @@
-# Problem 43: Print numbers from 1 to N
-
 n = int(input("Enter N: "))
 
 print("Numbers from 1 to", n)

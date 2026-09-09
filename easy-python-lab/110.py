@@ -1,5 +1,3 @@
-# Problem 110: Plus (+) pattern
-
 n = int(input("Enter size: "))
 
 print("Plus (+) pattern:")

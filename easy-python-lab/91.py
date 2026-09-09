@@ -1,5 +1,3 @@
-# Problem 91: 1-0 alternating triangle
-
 n = int(input("Enter number of rows: "))
 
 print("1-0 alternating triangle:")

@@ -1,5 +1,3 @@
-# Problem 97: Binary number triangle
-
 n = int(input("Enter number of rows: "))
 
 print("Binary number triangle:")

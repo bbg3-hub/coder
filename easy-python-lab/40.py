@@ -1,8 +1,6 @@
-# Problem 40: ATM Withdrawal - Approve/reject based on amount, balance, minimum-balance rules
-
 balance = float(input("Enter current balance: "))
 withdrawal_amount = float(input("Enter withdrawal amount: "))
-min_balance = 500  # Minimum balance to maintain
+min_balance = 500
 
 if withdrawal_amount <= 0:
     print("Invalid withdrawal amount")

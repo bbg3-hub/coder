@@ -1,5 +1,3 @@
-# Problem 47: Calculate the sum of first N natural numbers
-
 n = int(input("Enter N: "))
 
 sum_n = 0

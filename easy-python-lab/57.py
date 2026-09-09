@@ -1,5 +1,3 @@
-# Problem 57: Print all prime numbers from 1 to N
-
 def is_prime(n):
     if n < 2:
         return False

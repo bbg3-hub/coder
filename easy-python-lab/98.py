@@ -1,5 +1,3 @@
-# Problem 98: Alphabet triangle (row repeat)
-
 n = int(input("Enter number of rows: "))
 
 print("Alphabet triangle (row repeat):")

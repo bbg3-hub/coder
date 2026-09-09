@@ -1,5 +1,3 @@
-# Problem 96: Reverse number triangle
-
 n = int(input("Enter number of rows: "))
 
 print("Reverse number triangle:")

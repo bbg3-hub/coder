@@ -1,5 +1,3 @@
-# Problem 90: Floyd's triangle
-
 n = int(input("Enter number of rows: "))
 
 print("Floyd's triangle:")

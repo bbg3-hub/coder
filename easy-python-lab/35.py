@@ -1,5 +1,3 @@
-# Problem 35: Check if character is alphabet, digit, or special character
-
 char = input("Enter a single character: ")
 
 if char.isalpha():

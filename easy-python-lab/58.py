@@ -1,5 +1,3 @@
-# Problem 58: Find GCD / HCF of two numbers
-
 def gcd(a, b):
     a, b = abs(a), abs(b)
     while b:

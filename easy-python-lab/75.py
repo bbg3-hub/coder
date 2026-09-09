@@ -1,7 +1,4 @@
-# Problem 75: Palindrome Check for string using recursion
-
 def is_palindrome(s):
-    # Remove spaces and convert to lowercase
     s = s.replace(" ", "").lower()
     
     if len(s) <= 1:

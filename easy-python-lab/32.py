@@ -1,5 +1,3 @@
-# Problem 32: Check if number is positive, negative, or zero - then if positive check even/odd
-
 n = int(input("Enter a number: "))
 
 if n > 0:

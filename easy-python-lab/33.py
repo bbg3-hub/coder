@@ -1,5 +1,3 @@
-# Problem 33: Given 3 numbers, print them in ascending order using only if-else
-
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))

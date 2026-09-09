@@ -1,5 +1,3 @@
-# Problem 92: Pascal's triangle
-
 def binomial_coefficient(n, k):
     if k > n:
         return 0

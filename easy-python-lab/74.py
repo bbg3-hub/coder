@@ -1,4 +1,3 @@
-# Problem 74: Compute sin series: x - x^3/3! + x^5/5! - x^7/7! ...
 import math
 
 def factorial(n):

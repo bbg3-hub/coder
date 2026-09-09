@@ -1,5 +1,3 @@
-# Problem 70: Check if number is perfect (sum of divisors == number)
-
 n = int(input("Enter a number: "))
 
 sum_divisors = 0

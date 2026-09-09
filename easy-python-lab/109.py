@@ -1,5 +1,3 @@
-# Problem 109: X pattern
-
 n = int(input("Enter size: "))
 
 print("X pattern:")

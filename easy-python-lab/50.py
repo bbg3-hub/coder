@@ -1,5 +1,3 @@
-# Problem 50: Reverse a number
-
 n = int(input("Enter a number: "))
 
 reversed_num = 0

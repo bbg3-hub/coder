@@ -1,5 +1,3 @@
-# Problem 55: Find factorial of N
-
 def factorial(n):
     if n < 0:
         return "Factorial not defined for negative numbers"

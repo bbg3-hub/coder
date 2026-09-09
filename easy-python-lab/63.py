@@ -1,5 +1,3 @@
-# Problem 63: Find x^n (power) without using built-in pow function
-
 def power(x, n):
     if n == 0:
         return 1

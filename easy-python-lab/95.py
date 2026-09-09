@@ -1,5 +1,3 @@
-# Problem 95: Column-wise incrementing
-
 n = int(input("Enter number of rows: "))
 
 print("Column-wise incrementing:")

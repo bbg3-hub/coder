@@ -1,5 +1,3 @@
-# Problem 93: Number pyramid (centered)
-
 n = int(input("Enter number of rows: "))
 
 print("Number pyramid (centered):")

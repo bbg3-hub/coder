@@ -1,5 +1,3 @@
-# Problem 38: Check if 3-digit number is Armstrong number (e.g., 153)
-
 n = int(input("Enter a 3-digit number: "))
 
 if n < 100 or n > 999:

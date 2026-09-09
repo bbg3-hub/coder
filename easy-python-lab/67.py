@@ -1,6 +1,3 @@
-# Problem 67: Check if number is Armstrong number (generalized for any digits)
-# Armstrong number: sum of digits each raised to power of number of digits equals the number
-
 n = int(input("Enter a number: "))
 
 digits = [int(d) for d in str(abs(n))]

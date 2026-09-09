@@ -1,5 +1,3 @@
-# Problem 83: Inverted pyramid
-
 n = int(input("Enter number of rows: "))
 
 print("Inverted pyramid:")

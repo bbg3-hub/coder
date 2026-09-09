@@ -1,5 +1,3 @@
-# Problem 36: Read cost price and selling price - print profit, loss, or no profit no loss
-
 cost_price = float(input("Enter cost price: "))
 selling_price = float(input("Enter selling price: "))
 

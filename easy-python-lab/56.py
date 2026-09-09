@@ -1,5 +1,3 @@
-# Problem 56: Check if a number is prime
-
 def is_prime(n):
     if n < 2:
         return False

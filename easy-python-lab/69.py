@@ -1,5 +1,3 @@
-# Problem 69: Print all factors / divisors of a number
-
 n = int(input("Enter a number: "))
 
 print(f"Divisors of {n}:")

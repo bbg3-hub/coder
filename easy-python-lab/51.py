@@ -1,5 +1,3 @@
-# Problem 51: Check if a number is a palindrome
-
 n = int(input("Enter a number: "))
 
 original = abs(n)

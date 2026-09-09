@@ -1,5 +1,3 @@
-# Problem 101: Right-aligned alphabet triangle
-
 n = int(input("Enter number of rows: "))
 
 print("Right-aligned alphabet triangle:")

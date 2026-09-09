@@ -1,5 +1,3 @@
-# Problem 82: Pyramid (centered)
-
 n = int(input("Enter number of rows: "))
 
 print("Pyramid:")

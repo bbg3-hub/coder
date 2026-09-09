@@ -1,5 +1,3 @@
-# Problem 60: Print Fibonacci series up to N terms
-
 n = int(input("Enter number of terms: "))
 
 if n <= 0:

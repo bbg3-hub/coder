@@ -1,5 +1,3 @@
-# Problem 62: Compute: 1 - 2 + 3 - 4 + 5 - ... up to N terms
-
 n = int(input("Enter number of terms: "))
 
 sum_alternating = 0

@@ -1,6 +1,3 @@
-# Problem 52: Happy Number - repeatedly replace with sum of squares of digits
-# A happy number eventually reaches 1; unhappy numbers cycle
-
 def is_happy(n):
     seen = set()
     

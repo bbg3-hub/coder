@@ -1,5 +1,3 @@
-# Problem 42: Scholarship Eligibility - based on marks, attendance, and family income
-
 marks = float(input("Enter marks (0-100): "))
 attendance = float(input("Enter attendance percentage (0-100): "))
 income = float(input("Enter family income (in rupees): "))

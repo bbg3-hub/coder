@@ -1,5 +1,3 @@
-# Problem 61: Compute the sum: 1 + 1/2 + 1/3 + ... + 1/N
-
 n = int(input("Enter N: "))
 
 sum_reciprocals = 0

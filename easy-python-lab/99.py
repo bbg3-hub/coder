@@ -1,5 +1,3 @@
-# Problem 99: Alphabet triangle (sequential)
-
 n = int(input("Enter number of rows: "))
 
 print("Alphabet triangle (sequential):")

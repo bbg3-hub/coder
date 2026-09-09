@@ -1,5 +1,3 @@
-# Problem 66: Find the sum of even and odd numbers separately from 1 to N
-
 n = int(input("Enter N: "))
 
 sum_even = 0

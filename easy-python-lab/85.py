@@ -1,5 +1,3 @@
-# Problem 85: Hollow rectangle
-
 rows = int(input("Enter number of rows: "))
 columns = int(input("Enter number of columns: "))
 

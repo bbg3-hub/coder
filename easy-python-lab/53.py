@@ -1,5 +1,3 @@
-# Problem 53: Product of Digits - Find using recursion
-
 def product_of_digits(n):
     if n < 10:
         return n

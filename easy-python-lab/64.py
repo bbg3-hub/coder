@@ -1,5 +1,3 @@
-# Problem 64: Compute: 1! + 2! + 3! + ... + N!
-
 def factorial(n):
     if n <= 1:
         return 1

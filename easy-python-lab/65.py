@@ -1,5 +1,3 @@
-# Problem 65: Print the multiplication table of a given number
-
 n = int(input("Enter a number: "))
 
 print(f"Multiplication table of {n}:")

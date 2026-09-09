@@ -1,4 +1,3 @@
-# Problem 34: Find roots of quadratic equation (check discriminant: real, equal, imaginary)
 import math
 
 a = float(input("Enter coefficient a: "))

@@ -1,12 +1,9 @@
-# Problem 71: Convert decimal to binary
-
 n = int(input("Enter a decimal number: "))
 
-binary = bin(n)[2:]  # Remove '0b' prefix
+binary = bin(n)[2:]
 
 print(f"Decimal {n} in binary: {binary}")
 
-# Manual conversion
 temp = n
 manual_binary = ""
 

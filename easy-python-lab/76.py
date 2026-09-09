@@ -1,5 +1,3 @@
-# Problem 76: Count vowels in a string using recursion
-
 def count_vowels(s, index=0):
     if index == len(s):
         return 0

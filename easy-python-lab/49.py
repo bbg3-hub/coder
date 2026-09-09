@@ -1,5 +1,3 @@
-# Problem 49: Find the sum of digits of a number
-
 n = int(input("Enter a number: "))
 
 sum_digits = 0

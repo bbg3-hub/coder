@@ -1,5 +1,3 @@
-# Problem 39: Given hours worked and rate, compute salary with overtime (>40 hrs at 1.5x rate)
-
 hours = float(input("Enter hours worked: "))
 rate = float(input("Enter hourly rate: "))
 
